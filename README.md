@@ -23,3 +23,13 @@ The evolution of technology has enabled scientists to advance the automation of 
 
 - **Link to this paper**: https://sol.sbc.org.br/journals/index.php/jidm/article/view/2059
 - **Project link and results**: https://github.com/dew-uff/prospective-prov/
+
+
+## Poster Publications 
+### HotSoS 2023 Conference (Sponsored by NSA)
+#### Title: Explainable Boosting Classifier for Malware Detection and Local Explanation
+
+We propose using Explainable AI to identify malware in Portable Executable (PE) files and to understand the prediction decision by listing the features that contribute most to the model's decision. We train an Explainable Boosting Classifier (EBC), which is a generalized additive model from InterpretML on 20.000 files and to each file from test set that we want to further investigate we can use the local explanation to check the most relevant features given a prediction. The lack of explicability increase the challenge on understanding why a model fail on classifying certain files, and does not provide precise information regarding the model decision making.
+
+- **Link to this poster**: https://cps-vo.org/node/94693
+
